@@ -1,1 +1,1 @@
-g++ test.cpp -lncurses
+gcc main.cpp -o hello -lncurses
