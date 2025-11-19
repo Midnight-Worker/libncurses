@@ -33,3 +33,11 @@ done
 #    echo
 #    echo "=== Fertig, warte auf nächste Änderung... ==="
 #done
+
+
+### update  für mings64 windows: ###
+### update für windows: ###
+#fswatch --monitor=poll_monitor -o test.py | while read; do
+#    clear
+#    python test.py
+#done
